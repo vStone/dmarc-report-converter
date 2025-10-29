@@ -25,7 +25,7 @@ Support output formats:
   bootsrap assets.
 
 * **html** output file is a HTML, generated from builtin template htmlTmpl (consts.go ).
-  This format uses self-hosted bootsrap and javascript assets, so you need to configure your web
+  This format uses self-hosted bootstrap and javascript assets, so you need to configure your web
   server and *output -> assets_path* option.
 
 * **txt** output file is the plain text, generated from builtin template txtTmpl (consts.go).
